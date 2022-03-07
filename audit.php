@@ -1,7 +1,7 @@
 <?
-# Date : 30 / 11 / 2006
-# Version : 0.1 
-# Co-Author: Kalu
+# Date : 07 / 03 / 2022
+# Version : 1.0 
+# Author: Kalu
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
